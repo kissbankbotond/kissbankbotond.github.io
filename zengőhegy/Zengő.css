@@ -1,0 +1,54 @@
+#content{
+	width: 888px;
+    margin: auto;
+    background-color: rgb(212, 233, 139);
+    border: 10px green solid;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: brown;
+}
+#imageright{
+	float: right;
+    width: 100%;
+    border-radius: 10px 10px 10px 10px;
+}
+#imageleft{
+	float: left;
+    width: 100%;
+    border-radius: 10px 10px 10px 10px;
+    
+}
+.kepszoveg{
+	color: black;
+    text-align: center;
+    background-color: rgb(187, 142, 88);
+    margin: auto;
+    border-radius: 10px 10px 10px 10px;
+}
+#kepkeretright{
+    border: 2px green solid;
+    width: 25%;
+    float: right;
+    border-radius: 10px 10px 10px 10px;
+}
+#kepkeretleft{
+    border: 2px green solid;
+    width: 25%;
+    float: left;
+    border-radius: 10px 10px 10px 10px;
+}
+ul{
+    width: 70%;
+    float: right;
+}
+#nemjo{
+    margin-top: 300px;
+    width: 100%;
+    height: auto;
+}
+h1{
+    color: green;
+}
+h2{
+    color: green;
+}
